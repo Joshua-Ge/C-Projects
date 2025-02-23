@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main1(void) {
+int main(void) {
     char name[25];
 
     printf("What is your name >>");
